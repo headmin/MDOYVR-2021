@@ -21,7 +21,7 @@ Welcome, here you'll find the slides and complementary info about our MDOYVR 202
 We are [Zentral Pro Services](https://www.zentral.pro/) - a consulting, research and development company.
 We help clients unleash the potential of their Apple devices in a business environment.
 
-We also build [Zentral opensource](https://github.com/zentralopensource/zentral/zentral).
+We build [Zentral opensource](https://github.com/zentralopensource/zentral/zentral).
 We have created [IDent](https://www.ident.help) as a custom solution to improve identity provisioning to enterprise needs in a distributed fleet of Macs.
 
 ## Links
