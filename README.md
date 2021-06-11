@@ -12,7 +12,7 @@ Find the MDOYVR 2021 session on YouTube [here](https://www.youtube.com/channel/U
 
 - Download our MDOYVR21 session slides [here](./pdf/MDOYVR21_santa_deployment.pdf).
 
-![Useful techniques for a successful Santa deployment](img/JNUC326.png)
+![Useful techniques for a successful Santa deployment](img/session_intro.png)
 
 ## Who are we ?
 
